@@ -1,4 +1,7 @@
 # PHilita Legacy Simulation
+
+**Disclaimer: This was from back in the day when I only knew how to write MATLAB - and poorly at that. The code is pretty rough!**
+
 ## _Prototype London Sim 2019/20 repository_
 ---
 This repository holds the codebase the prototype simulation of London run for the Thales Tech challenge, and all associated files:
